@@ -114,3 +114,6 @@ yarn-error.log*
 
 # Compass
 .sass-cache
+
+# SQLITE3
+db.sqlite3
